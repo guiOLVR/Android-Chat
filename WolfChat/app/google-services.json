@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "933068277060",
+    "firebase_url": "https://wolfchat-1e6cf.firebaseio.com",
+    "project_id": "wolfchat-1e6cf",
+    "storage_bucket": "wolfchat-1e6cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933068277060:android:ca290b0f9728b1e0",
+        "android_client_info": {
+          "package_name": "br.com.wolfchat.gui_m.wolfchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "933068277060-s50a9065qs8tp0g9cq9akgihs0t8cdor.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.wolfchat.gui_m.wolfchat",
+            "certificate_hash": "0cb52d978a4d48224ce452d787fb27e0894c379f"
+          }
+        },
+        {
+          "client_id": "933068277060-akk4gg58m64o6ts2nav7o2hl74hhthdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfl67gdRxDnQD1pcJio5cNWoyRZmM5z8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "933068277060-akk4gg58m64o6ts2nav7o2hl74hhthdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
